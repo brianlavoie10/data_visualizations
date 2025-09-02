@@ -11,22 +11,17 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! I am a public policy student, eager to drive narratives and help create a more egalitarian world, even if we can only take the smallest steps for right now. I want to find myself in program administration after I complete my degree. It's important for me to see tangible results from the work that I do. This is why I want to learn more about data visualization - I think it's a great way to organize one's thoughts and think creatively about how you can visualize data to drive home your insights. If you can do this well enough, you can convince communities that your view is salient and must be acted on. I am also learning about statistical learning and modeling in hopes to organize the overwhelming amount of information we have at banging down our door into thoughtful and **actionable** insights. So here it goes!
+
+Given those high-minded ideals, I also like to bike and cook food at home that I would otherwise need to get from a restaurant.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I'm pretty big on learning. History, economics, **the why** of it all really fascinates me. This course is an opportunity to learn how to display _the why_ so that it is easily digestible to my audience. I am particularly interested in how I can learn to format data visualizations to be audience-obsessed. I want to build visualizations with the question - who will be looking at this and what will they glean from this visual? How can I steer them to this takeaway and make their learning as frictionless as possible?
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
+## Midterm Project
+## Final Project
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
