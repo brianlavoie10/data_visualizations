@@ -38,7 +38,12 @@ Assignment 1 Part 2: Monkey Do \(I came up with this one myself\)
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Midterm Project
+## Midterm Projec
 <iframe title="Cost of Goods Compared Across U.S. States" aria-label="Choropleth map" id="datawrapper-chart-B4HT2" src="https://datawrapper.dwcdn.net/B4HT2/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="503" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();</script>
+
+Original Graphic found here: https://data.world/makeovermonday/2021w17
+
+This was a fun one! I found the original chart on MkeoverMonday, and it really sparked the armchair economist in me. I thought it was a good visualization, but it felt a little busy and listing the states on a swirled axis looked a little clumpy. To start, I put it in a normal bar chart; and I immediately see why the initial swirled axis was necessary. The graph was simply too big when put onto a straight line! I tried the bars both vertidally and horizontally: no good. I even subtracted 100 from each data point so I could model each state's price parity difference from the US average. While that helped with the scaling, it was still too big. When I presented my two attempts for critique, the results were unanimous: use a map! Datawrapper made the transition pretty straightfoward: I can't believe it took me this long to find such an intuitive map maker! And so clean looking too, if I do say so myself. ;)
+
 ## Final Project
 
