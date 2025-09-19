@@ -39,6 +39,6 @@ Assignment 1 Part 2: Monkey Do \(I came up with this one myself\)
 </script>
 
 ## Midterm Project
-
+<iframe title="Cost of Goods Compared Across U.S. States" aria-label="Choropleth map" id="datawrapper-chart-B4HT2" src="https://datawrapper.dwcdn.net/B4HT2/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="503" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();</script>
 ## Final Project
 
