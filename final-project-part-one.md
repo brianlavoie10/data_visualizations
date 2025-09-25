@@ -11,25 +11,23 @@ I can end by briefly discussing the second wave of this concentration lead by in
 End with a few headlines about how news outlets are catching on to this concentration and think of a call to action from there. I think getting the information out is an act of responsible citizenry in itself.
 
 ## Initial sketches
-
+ See sketches on my Github Branch Page! 
+ https://github.com/brianlavoie10/data_visualizations/blob/main/TSWD%20sketches.jpg?raw=true
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+Financial data is everywhere... and nowhere!!! While it is plastered on every TV screen from Fox Business to CNN (remember those ticker tapes at the bottom of the news?), it is very difficult to find a source that easily conglomerates this free data into easily downloadable csv's! However, I have found a couple of spreadsheets with market capitalization for each sector of the S&P 500, and longitudinal data on specific company marketcaps are easy to find through a Google Search.
 
-Text here...
+In order to get the above and beyond data, I plan on signing up for a free trial of YCharts. They are one of many sites that conglomerate the public data on the stock market and allow users to download spreadsheets directly from their sites. I will publish the spreadsheets here for posterity!
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+Macro Trends historic S&P evaluation Data - [https://finance.yahoo.com/quote/%5EGSPC/history/](https://www.macrotrends.net/2324/sp-500-historical-chart-data) - This source gives overall market cap of the S&P 500 going back to 1930
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+Another fun thing I learned is that Microsoft Excel pulls market data for individual companies with the "STOCKHISTORY" function. This method will also be uesd for individual company price growth.
+
+
+
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I am a huge fan of Shorthand! I plan on making a story there with Tableau Public data visuals embedded as we go!
 
 ## References
 _List any references you used here._
