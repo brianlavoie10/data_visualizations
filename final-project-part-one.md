@@ -4,18 +4,14 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+I will tell the story of stock market growth concentration over the last 8 years. I am looking to break the prevailing knowledge that all stocks are constantly increasing in value all of the time. In fact, most of the growth in the stock market over the last year can be contributed to the Information Technology and Communications sector. (Graphs 1, 2 and 3). Moreover, we could go even further and see that a large portion of the growth within these sectors are concentrated within a group of stocks dubbed 'The Magnificent 7' (Graph 4). While these companies change from time to time based on market captialization, they still make up for a large part of stock growth over the last decade.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+I can end by briefly discussing the second wave of this concentration lead by investment in AI - NVIDIA alone has accounted for 22% of all stock market growth in the last year! (I didn't sketch this but maybe a bar chart of % growth contributed by a handful of large companies - NVIDIA will be on head and shoulders above the rest). 
 
-Text here...
+End with a few headlines about how news outlets are catching on to this concentration and think of a call to action from there. I think getting the information out is an act of responsible citizenry in itself.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
