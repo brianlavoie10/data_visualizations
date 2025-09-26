@@ -17,7 +17,6 @@ End with a few headlines about how news outlets are catching on to this concentr
 # The data
 Financial data is everywhere... and nowhere!!! While it is plastered on every TV screen from Fox Business to CNN (remember those ticker tapes at the bottom of the news?), it is very difficult to find a source that easily conglomerates this free data into easily downloadable csv's! However, I have found a couple of spreadsheets with market capitalization for each sector of the S&P 500, and longitudinal data on specific company marketcaps are easy to find through a Google Search.
 
-In order to get the above and beyond data, I plan on signing up for a free trial of YCharts. They are one of many sites that conglomerate the public data on the stock market and allow users to download spreadsheets directly from their sites. I will publish the spreadsheets here for posterity!
 
 Macro Trends historic S&P evaluation Data - [https://finance.yahoo.com/quote/%5EGSPC/history/](https://www.macrotrends.net/2324/sp-500-historical-chart-data) - This source gives overall market cap of the S&P 500 going back to 1930
 
