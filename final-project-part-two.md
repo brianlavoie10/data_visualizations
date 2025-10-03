@@ -1,68 +1,51 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+Shorthand Link Here!
 
-Text here!
+https://app.shorthand.com/organisations/JSrgFWI7zn/stories/x6eBNhvJwD
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+I am generally targetting folks that were at or *would have wanted to be at* The Occupy Protests in 2011, or anyone who would have wanted to be there but was too young to go. So target audience is likely under 50, politically liberal, and anxious about wealth inequality in the world.
 
-Text here!
+I luckily live with a someone in my target audience, and I can also find a couple of students in our class who also fit the bill.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+
 
 Text here!
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|           Goal           | Questions to Ask |
+|--------------------------|------------------|
+|   Polish visualizations  |  Which viz captures your attention most?                 |
+|   Further Research       |What other 'research questions' would you have about how wealth inequality has continued to drive our economy? What other ways could I show wealth disparities outside of graphs?
+
 
 
 Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+Interview Findings
 
-Text here!
+Participant 1
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+On research questions: Suggested looking at how wealth inequality connects to everyday costs like housing, healthcare, and education — “what’s the lived impact of inequality?”
+
+On alternate visuals: Thought infographics or visual timelines could make the story feel less abstract, for example showing the cost of rent or tuition then vs. now compared to income growth.
+
+quote: “It’d be interesting to see how inequality shows up in things people actually buy, not just in lines on a chart.”
+
+Participant 2 
+
+On research questions: Wanted to see more about how inequality affects political power, such as campaign contributions or lobbying.
+
+On alternate visuals: Suggested storytelling formats like photo essays or short video clips from the Occupy protests, alongside the data, to connect numbers to emotions.
+
+quote: “The charts tell me the data, but images from the protests would remind me this was a movement, not just a statistic”
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I am going to look into how else I can visualize the wealth disparity other than line charts and a table.
 
